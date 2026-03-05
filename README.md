@@ -31,8 +31,7 @@ This repository is primarily notebook-based.
    .\.venv\Scripts\activate
    # macOS/Linux:
    source .venv/bin/activate
-   pip install -r requirements.txt
-```
+   pip install -r requirements.txt```
 
 2. Start Jupyter: ```jupyter notebook```
 
